@@ -1,10 +1,9 @@
-
 ### People
 - Principle Investigator
-    - Yoonho Nam
+    - [Yoonho Nam]()
 - Current Members
-    - Junghwa Kang
-    - Seungun Jang
-    - Hyebin Lee
-    - 
-    - 
+    - [Junghwa Kang]()
+    - [Seungun Jang]()
+    - [이혜빈]()
+    - [유환승]()
+    - [백다영]()
