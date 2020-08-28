@@ -13,9 +13,10 @@
 - Undergraduate
     - T03108601 Linear Algebra (선형대수)
     - T10402201 AI for Biomedical Applications (바이오메디컬인공지능)
+        - [2020-1](https://hufsaim.github.io/T10402201/)
     - T10306201 Biomedical Image Processing (의료영상처리의 이론 및 실습)
         - [2020-2](https://hufsaim.github.io/T10306201/)
     - T10203101 Engineering Mathematics 1 (공학수학1)
     - T10312101 BME Neuroscience (BME신경과학)
 - Graduate
-    - G67061101 Special topics in Biomedical AI (바이오메디컬인공지능특론)
+    - G67061101 Special topics in Biomedical AI
