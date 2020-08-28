@@ -1,1 +1,0 @@
-# hufs research note
