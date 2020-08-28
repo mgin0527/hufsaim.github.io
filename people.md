@@ -1,6 +1,6 @@
 ### People
 - Principle Investigator
-    - [Yoonho Nam]()
+    - [Yoonho Nam](https://yoonhonam.github.io/)
 - Current Members
     - [Junghwa Kang]()
     - [Seungun Jang]()
