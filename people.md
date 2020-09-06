@@ -9,7 +9,7 @@
         - [Kangjung9592 AT gmail.com]()
     - [Seungun Jang]()
         - Undergraduate Intern
-    - [이혜빈]()
+    - [Hyebin Lee]()
         - Undergraduate Intern
     - [유환승]()
         - Undergraduate Intern
