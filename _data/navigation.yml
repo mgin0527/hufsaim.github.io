@@ -1,0 +1,10 @@
+main:
+
+  - title: "Research"
+    url: /research/
+  - title: "Publication"
+    url: /publication/
+  - title: "People"
+    url: /people/
+  - title: "Calendar"
+    url: /calendar/
